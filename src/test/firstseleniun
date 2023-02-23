@@ -1,0 +1,6 @@
+
+@test
+public static void
+
+WebDriverManager.ChromeDriver.setup();
+WebDriver mychrome=new ChromeDriver();
